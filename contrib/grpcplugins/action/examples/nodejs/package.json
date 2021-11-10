@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "get-port": "5.1.1",
-    "google-protobuf": "3.11.4",
+    "google-protobuf": "3.18.1",
     "grpc": "1.24.10",
     "atob": "2.1.2",
     "lodash": "4.17.21",
