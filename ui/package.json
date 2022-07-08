@@ -74,7 +74,7 @@
     "jsrsasign": "10.2.0",
     "lodash-es": "4.17.15",
     "modernizr": "3.7.1",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "ng-event-source": "1.0.14",
     "ng-semantic": "https://github.com/sguiheux/ngSemantic/tarball/sgu-master",
     "ng2-codemirror-typescript": "3.0.1",
