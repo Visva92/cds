@@ -6,7 +6,7 @@ RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -a -o /tmp/smtpmocksrv github
 RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -a -o /tmp/smtpmockcli github.com/ovh/cds/tools/smtpmock/cli
 
 # final stage
-FROM alpine:latest
+FROM alpine:3.18.3
 RUN apk --no-cache add ca-certificates
 COPY --from=builder /tmp/smtpmocksrv ./
 COPY --from=builder /tmp/smtpmockcli ./
