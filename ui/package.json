@@ -60,7 +60,7 @@
     "core-js": "2.6.3",
     "d3": "5.7.0",
     "d3-zoom": "1.7.3",
-    "dagre-d3": "0.6.3",
+    "dagre-d3": "0.6.4",
     "diff": "4.0.2",
     "dragula": "3.7.2",
     "enhanced-resolve": "4.1.1",
