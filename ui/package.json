@@ -69,7 +69,7 @@
     "font-awesome": "4.7.0",
     "immutable": "4.0.0-rc.12",
     "js-beautify": "1.8.9",
-    "js-yaml": "3.13.1",
+    "js-yaml": "3.14.2",
     "jsonschema": "1.2.5",
     "jsrsasign": "10.2.0",
     "lodash-es": "4.17.15",
